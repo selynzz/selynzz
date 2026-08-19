@@ -1,17 +1,10 @@
-<table>
-<tr>
-<td width="70%">
+<img align="right" width="200" src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" alt="cats computer gif" />
 
 # Hi 👋, I'm Evlyn Jane Putri 🧑‍💻
 
 <img src="https://komarev.com/ghpvc/?username=selynzz&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
 
-</td>
-<td width="30%">
-<img src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" width="200" alt="cats computer gif" />
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 ---
 
