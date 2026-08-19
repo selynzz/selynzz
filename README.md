@@ -8,7 +8,7 @@
 
 </td>
 <td width="30%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/pusheen-cat.gif" width="200" alt="cat gif" />
+<img src="https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif" width="200" alt="funny coding gif" />
 </td>
 </tr>
 </table>
@@ -18,7 +18,7 @@
 ### 🧭 About
 
 - 💼 Currently working as a **Fullstack Developer** and freelancer web developer
-- 🔭 Always exploring the latest technologies in **Web Development**, **Android Development**, and **Data Analysis**
+- 🔭 Always learning and exploring the latest technologies
 - 📫 How to reach me: [selynxxzz@gmail.com](mailto:selynxxzz@gmail.com)
 
 ---
@@ -28,13 +28,25 @@
 **Languages**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=kotlin,python,php,js,ts,angular,laravel,nextjs,html,css" alt="languages" />
+<img src="https://skillicons.dev/icons?i=kotlin,python,php,js,ts,html,css" alt="languages" />
+</p>
+
+**Frameworks & Runtime**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,angular,laravel,nextjs,express,prisma" alt="frameworks and runtime" />
+</p>
+
+**Databases**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="databases" />
 </p>
 
 **Tools**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,postgres,mongodb,git,github,figma,vscode" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="tools" />
 </p>
 
 ---
