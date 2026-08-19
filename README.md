@@ -1,6 +1,6 @@
 <img align="right" width="200" src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" alt="cats computer gif" />
 
-# Hi 👋, I'm Evlyn Jane Putri 🧑‍💻
+# Hi 👋, I'm Jane 👩🏻‍💻
 
 <img src="https://komarev.com/ghpvc/?username=selynzz&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
 
