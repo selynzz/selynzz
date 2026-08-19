@@ -12,6 +12,8 @@
 
 - 💼 Currently working as a **Fullstack Developer** and freelancer web developer
 - 🔭 Always learning and exploring the latest technologies
+- 💡 Solving real-world problems with code
+- 🚀 Building clean & scalable web applications
 - 📫 How to reach me: [selynxxzz@gmail.com](mailto:selynxxzz@gmail.com)
 
 ---
