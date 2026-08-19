@@ -8,7 +8,7 @@
 
 </td>
 <td width="30%">
-<img src="https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif" width="200" alt="funny coding gif" />
+<img src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" width="200" alt="cats computer gif" />
 </td>
 </tr>
 </table>
